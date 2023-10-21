@@ -1,2 +1,1 @@
-# azure_test_dijitalteam
-Contains test related scripts
+# dtu_change_ps contains powershell core script for DTU changing for Azure
